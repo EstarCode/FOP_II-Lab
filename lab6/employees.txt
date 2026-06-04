@@ -1,0 +1,4 @@
+Callaway_G 6.00 40
+Hanson_P 5.00 48
+Lasard_D 6.50 35
+Stillman_W 8.00 50
